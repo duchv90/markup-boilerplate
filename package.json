@@ -1,0 +1,30 @@
+{
+  "name": "hvducboiler",
+  "version": "1.0.0",
+  "description": "Markup boiler by hvduc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hvduc.com",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^3.0.3",
+    "delete": "^1.1.0",
+    "dotenv": "^16.4.7",
+    "gulp": "^5.0.0",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-eslint": "^6.0.0",
+    "gulp-if": "^3.0.0",
+    "gulp-include": "^2.4.1",
+    "gulp-notify": "^5.0.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-pug": "^5.0.0",
+    "gulp-sass": "^6.0.0",
+    "gulp-sass-lint": "^1.4.0",
+    "gulp-sizereport": "^1.2.1",
+    "gulp-uglify": "^3.0.2",
+    "sass": "^1.83.0"
+  }
+}
